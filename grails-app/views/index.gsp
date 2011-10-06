@@ -94,6 +94,7 @@
                         <li class="controller"><g:link controller="${c.logicalPropertyName}">${c.fullName}</g:link></li>
                     </g:each>
                 </ul>
+		<h1>:)</h1>
             </div>
         </div>
     </body>
